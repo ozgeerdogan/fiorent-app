@@ -1,0 +1,17 @@
+{
+  "GİRİŞ SAYFASI": "LOGIN PAGE",
+  "Kullanıcı Adı": "User Name",
+  "Parola" : "Password",
+  "Parolanızı mı unuttunuz?": "Forgot Password",
+  "GİRİŞ"  : "LOGIN",
+  "Yeni kullanıcı? Hesap oluşturun" : "New User? Create Account",
+  "Teslimat Sorumlusu Giriniz" : "Enter Selivery Person",
+  "Varış İli seçiniz": "Select Destination City",
+  "Varış İlçesi seçiniz": "Select Arrival District",
+  "Tarih": "History",
+  "Araç Sayısı" : "Enter Number of Vehicles",
+  "Araç Fiyatı Giriniz": "Enter Vehicle Price",
+  "Onaya gitsin mi?" : "Will you go for the check?",
+  "İptal" : "Cancel",
+  "Kaydet": "Save"
+}
